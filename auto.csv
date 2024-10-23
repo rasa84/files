@@ -1,0 +1,4 @@
+model,mpg,cyl,disp,hp
+Mazda RX4,21,6,160,110
+Mazda RX4 Wag,21,6,160,110
+Datsun 710,22.8,4,108,93
